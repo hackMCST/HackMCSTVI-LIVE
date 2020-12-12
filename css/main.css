@@ -502,7 +502,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: #48968b;
+    background: #8b0000;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -545,7 +545,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-    background-color: #48968b;
+    background-color: #8b0000;
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -1246,7 +1246,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     line-height: 1.333;
     text-transform: uppercase;
     letter-spacing: .25rem;
-    color: #48968b;
+    color: #8b0000;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -1859,8 +1859,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-    border-bottom: 2px solid #48968b;
-    border-right: 2px solid #48968b;
+    border-bottom: 2px solid #8b0000;
+    border-right: 2px solid #8b0000;
     content: '';
     display: block;
     height: 8px;
@@ -1884,7 +1884,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #48968b;
+    background-color: #8b0000;
     position: absolute;
     right: 7.2rem;
     bottom: 0;
@@ -1944,7 +1944,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-social span {
-    color: #48968b;
+    color: #8b0000;
     right: 4.5rem;
     font-size: 1.3rem;
     opacity: 0;
@@ -2200,7 +2200,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #48968b;
+    background-color: #8b0000;
     color: #010507;
     position: relative;
 }
@@ -2405,7 +2405,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
     float: left;
-    color: #48968b;
+    color: #8b0000;
     font-size: 4.8rem;
     margin-top: -.6rem;
 }
@@ -2973,7 +2973,7 @@ html.no-csstransitions .home-content__main {
     padding: 0 2rem;
     margin: 0;
     color: #FFFFFF;
-    background: #48968b;
+    background: #8b0000;
 }
 
 .s-contact .form-field label::after {
@@ -2984,7 +2984,7 @@ html.no-csstransitions .home-content__main {
     margin-top: -6px;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-right: 5px solid #48968b;
+    border-right: 5px solid #8b0000;
 }
 
 .contact__line {
