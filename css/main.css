@@ -3617,5 +3617,22 @@ footer .row {
     }
 }
 
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.centerSmall {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.centerBig {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
 /*# sourceMappingURL=main.css.map */
